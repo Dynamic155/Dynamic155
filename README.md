@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Dynamic!
 
-<!--
-**Dynamic155/Dynamic155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 🎮 **Roblox Developer**: Proficient in Lua scripting with experience in GUI design.
+- 🐍 **Python**: Developed several basic projects and continuously learning more.
+- 💻 **Learning**: Currently diving into C# and planning to learn C++ and JavaScript.
+- 📫 **Reach Me**: dynamic155yt@gmail.com | Discord: shirroz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+
+- Become proficient in C#.
+- Start and complete a C++ project.
+- Build and deploy a JavaScript web application or automation script.
