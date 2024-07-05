@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎮 Roblox Developer: Proficient in Lua scripting with experience in GUI design.<br>🐍 Python: Developed several basic projects and continuously learning more.<br>💻 Learning: Currently diving into C# and planning to learn C++ and JavaScript.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+make+youtube+videos;Roblox+LUAU%3F;Free+robuxes+here)](https://youtube.com/@Dynamic155)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Dynamic155) 
@@ -22,6 +23,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dynamic155&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dynamic155&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dynamic155&icon=1&color=1)](https://github.com/Dynamic155)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
