@@ -1,11 +1,12 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=386AF7&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=WelcomeUser();%3CI+Am+Dynamic.%3CRobloLuaU%3F%3CI+Make+Youtube+Videos." alt="Welcome To My Profile!" height="80" /></div>
-
+<h1 align="left"><strong>A B O U T &nbsp; M E </h1></strong></p>
+  
 ```zsh
 shirroz@uwulinux:~$ cat AboutMe.txt
 ```
 
 <img align="left" src="img/animeGirlStandingLeftFacing.png" width="240px"/> 
-
+  
 ```lua
 About Me: Version. 1.0
 ----------------------------------------------------------------------------------------
@@ -14,8 +15,6 @@ User: Dynamic (Also known as: Shirroz.)
 Discord: shirroz
 Matrix: @dynamic155:matrix.org
 Telegram: @dynamic155
-
-
 
 
 
