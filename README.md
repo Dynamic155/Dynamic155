@@ -30,6 +30,9 @@ Telegram: @dynamic155
 
 
 
+
+
+
 OS: Windows (Main PC), Arch Linux with Qtile (Main PC), Debian (Server).
 ```
 
@@ -44,9 +47,10 @@ OS: Windows (Main PC), Arch Linux with Qtile (Main PC), Debian (Server).
 <img src="https://streak-stats.demolab.com?user=Dynamic155&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3&card_width=220&background=202020&stroke=386AF7&border=164187&ring=252F4C&fire=F7768E&currStreakNum=386AF7&sideNums=386AF7&currStreakLabel=677CA3&sideLabels=677CA3&dates=677CA3" height="130" alt="streak graph"  />
 </div>
 
-<div >
 <h1 align="right"><strong>B A T C H &nbsp; B A T T L E</h1></strong></p>
+  
+<div >
 <img align="left" src="img/animestanding.png" width="300px"/> 
-
+<h3 align="center"><strong>C O M I N G &nbsp; S O O N</h3></strong></p>
 </div>
 
