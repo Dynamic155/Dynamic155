@@ -9,7 +9,7 @@ shirroz@uwulinux:~$ cat AboutMe.txt
   
 ```lua
 About Me: Version. 1.0
-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 "We have two lives, and the second begins when we realize we only have one."
 User: Dynamic (Also known as: Shirroz.)
 Discord: shirroz
