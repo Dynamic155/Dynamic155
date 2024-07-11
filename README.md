@@ -1,24 +1,42 @@
-# 💫 About Me:
-🎮 Roblox Developer: Proficient in Lua scripting with experience in GUI design.<br>🐍 Python: Developed several basic projects and continuously learning more.<br>💻 Learning: Currently diving into C# and planning to learn C++ and JavaScript.
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=386AF7&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=WelcomeUser();%3CI+Am+Dynamic.%3CRobloLuaU%3F%3CI+Make+Youtube+Videos." alt="Welcome To My Profile!"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+make+youtube+videos;Roblox+LUAU%3F;Free+robuxes+here)](https://youtube.com/@Dynamic155)
+```zsh
+shirroz@uwulinux:~$ cat AboutMe.txt
+```
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Dynamic155) 
+<img align="left" src="img/AnimeGirlLeaningOnRight.png" width="200px"/> 
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dynamic155&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dynamic155&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamic155&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```lua
+About Me: Version. 1.0
+----------------------------------------------------------------------------------------
+"We have two lives, and the second begins when we realize we only have one."
+User: Dynamic (Also known as: Shirroz.)
+Discord: shirroz
+Matrix: @dynamic155:matrix.org
+Telegram: @dynamic155
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dynamic155&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Dynamic155&icon=1&color=1)](https://github.com/Dynamic155)
 
+
+
+
+
+
+
+
+
+
+
+OS: Windows (Main PC), Arch Linux with Qtile (Main PC), Debian (Server).
+```
+
+<h1 align="center">-- Info --</h1>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dynamic155&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&card_width=220&locale=en&hide_border=false&order=1&custom_title=My%20stats:&border_color=386AF7FF&title_color=386AF7FF&icon_color=164187&text_color=677CA3&bg_color=202020" height="150" alt="stats graph"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dynamic155&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=6&hide_border=false&order=2&custom_title=Most%20Used%20Languages:&border_color=386AF7FF&title_color=386AF7FF&icon_color=164187&text_color=677CA3&bg_color=202020" height="150" alt="languages graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=Dynamic155&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3&card_width=220&background=202020&stroke=386AF7&border=164187&ring=252F4C&fire=F7768E&currStreakNum=386AF7&sideNums=386AF7&currStreakLabel=677CA3&sideLabels=677CA3&dates=677CA3" height="150" alt="streak graph"  />
+</div>
