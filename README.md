@@ -32,7 +32,6 @@ Telegram: @dynamic155
 
 
 
-
 OS: Windows (Main PC), Arch Linux with Qtile (Main PC), Debian (Server).
 ```
 
