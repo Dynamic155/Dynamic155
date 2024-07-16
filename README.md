@@ -38,7 +38,7 @@ OS: Windows (Main PC), Arch Linux with Qtile (Main PC), Debian (Server).
 <h1 align="left"><strong>S T A T I S T I C S</h1></strong></p>
 
 <div align="center">
-<img align="right" src="img/CatgirlBlue.png" height="130px"/> 
+<img align="right" src="cropped/2 chars W Overlay.png" height="130px"/> 
 <img src="https://github-readme-stats.vercel.app/api?username=Dynamic155&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&card_width=220&locale=en&hide_border=false&order=1&custom_title=My%20stats:&border_color=386AF7FF&title_color=386AF7FF&icon_color=164187&text_color=677CA3&bg_color=202020" height="130" alt="stats graph"/>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dynamic155&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=6&hide_border=false&order=2&custom_title=Most%20Used%20Languages:&border_color=386AF7FF&title_color=386AF7FF&icon_color=164187&text_color=677CA3&bg_color=202020" height="130" alt="languages graph"  />
@@ -49,7 +49,6 @@ OS: Windows (Main PC), Arch Linux with Qtile (Main PC), Debian (Server).
 <h1 align="right"><strong>B A T C H &nbsp; B A T T L E</h1></strong></p>
   
 <div >
-<img align="left" src="img/animestanding.png" width="300px"/> 
+<img align="left" src="cropped/shadow-flipped.png" width="300px"/> 
 <h3 align="center"><strong>C O M I N G &nbsp; S O O N</h3></strong></p>
 </div>
-
