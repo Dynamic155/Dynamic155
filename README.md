@@ -5,7 +5,7 @@
 shirroz@uwulinux:~$ cat AboutMe.txt
 ```
 
-<img align="left" src="cropped/SwordSoft.png" height="520px"/> 
+<img align="left" src="cropped/SwordSoft.png" height="500px"/> 
   
 ```lua
 About Me: Version. 1.0
