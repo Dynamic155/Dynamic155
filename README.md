@@ -39,11 +39,11 @@ OS: Windows (Main PC), Arch Linux with Qtile (Main PC), Debian (Server).
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dynamic155&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&card_width=220&locale=en&hide_border=false&order=1&custom_title=My%20stats:&border_color=386AF7FF&title_color=386AF7FF&icon_color=164187&text_color=677CA3&bg_color=202020" height="130" alt="stats graph"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dynamic155&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&card_width=210&locale=en&hide_border=false&order=1&custom_title=My%20stats:&border_color=386AF7FF&title_color=386AF7FF&icon_color=164187&text_color=677CA3&bg_color=202020" height="130" alt="stats graph"/>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dynamic155&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=6&hide_border=false&order=2&custom_title=Most%20Used%20Languages:&border_color=386AF7FF&title_color=386AF7FF&icon_color=164187&text_color=677CA3&bg_color=202020" height="130" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dynamic155&locale=en&hide_title=false&layout=compact&card_width=210&langs_count=6&hide_border=false&order=2&custom_title=Most%20Used%20Languages:&border_color=386AF7FF&title_color=386AF7FF&icon_color=164187&text_color=677CA3&bg_color=202020" height="130" alt="languages graph"/>
   
-<img src="https://streak-stats.demolab.com?user=Dynamic155&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3&card_width=220&background=202020&stroke=386AF7&border=164187&ring=252F4C&fire=F7768E&currStreakNum=386AF7&sideNums=386AF7&currStreakLabel=677CA3&sideLabels=677CA3&dates=677CA3" height="130" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=Dynamic155&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3&card_width=210&background=202020&stroke=386AF7&border=164187&ring=252F4C&fire=F7768E&currStreakNum=386AF7&sideNums=386AF7&currStreakLabel=677CA3&sideLabels=677CA3&dates=677CA3" height="130" alt="streak graph"  />
 </div>
     </td>
     <td>
