@@ -53,8 +53,8 @@ OS: Windows (Main PC), Arch Linux with Qtile (Main PC), Debian (Server).
 </table>
 
 <div align="center">
-<h1 align="right"><strong>B A T C H &nbsp; B A T T L E</h1></strong></p>
+<!-- <h1 align="right"><strong>B A T C H &nbsp; B A T T L E</h1></strong></p>
   
-<img align="left" src="cropped/shadow-flipped.png" width="300px"/> 
+<!--<img align="left" src="cropped/shadow-flipped.png" width="300px"/> 
 <h3 align="center"><strong>C O M I N G &nbsp; S O O N</h3></strong></p>
 </div>
