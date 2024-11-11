@@ -2,7 +2,7 @@
 <h1 align="left"><strong>A B O U T &nbsp; M E </h1></strong></p>
   
 ```zsh
-shirroz@uwulinux:~$ cat AboutMe.txt
+dynamic@uwulinux:~$ cat AboutMe.txt
 ```
 
 <img align="left" src="cropped/girl solo.png" width="176px"/> 
