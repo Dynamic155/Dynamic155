@@ -57,4 +57,6 @@ OS: Windows (Main PC), Arch Linux with Qtile (Main PC), Debian (Server).
   
 <!--<img align="left" src="cropped/shadow-flipped.png" width="300px"/> 
 <h3 align="center"><strong>C O M I N G &nbsp; S O O N</h3></strong></p>
-</div>
+</div> --!>
+
+Like my profile? Please star before you fork it <3
