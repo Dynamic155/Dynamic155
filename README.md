@@ -23,7 +23,7 @@
 >
 > *...yeah. that was me.*
 >
-> But here's the thing about catboys —  
+> But here's the thing about catboys -  
 > we always land on our feet. 🐾
 
 I'm a **Roblox developer** who builds weird little worlds and chaotic little games.  
